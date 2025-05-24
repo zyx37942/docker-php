@@ -9,11 +9,11 @@ This project automates the creation and publishing of a Docker image for PHP. It
 
 - Install from the command line
   ```
-  $ docker pull ghcr.io/4lkaid/php:latest
+  $ docker pull ghcr.io/zyx37942/php:latest
   ```
 - Use as base image in Dockerfile
   ```
-  FROM ghcr.io/4lkaid/php:latest
+  FROM ghcr.io/zyx37942/php:latest
   ```
 
 ## License
